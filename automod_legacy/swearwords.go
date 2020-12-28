@@ -75,4 +75,8 @@ var BuiltinSwearWords = map[string]bool{
 	"asshat":      true,
 	"pu55y":       true,
 	"pen1s":       true,
+	"retard":      true,
+	"retards":       true,
+	"retardation":       true,
+	"retarded":      true,
 }
